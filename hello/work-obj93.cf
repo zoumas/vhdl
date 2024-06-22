@@ -1,0 +1,4 @@
+v 4
+file . "hello.vhdl" "faf80e3e7414b3f929f8c92943ba4059143ff94f" "20240622141836.571":
+  entity hello_world at 4( 64) + 0 on 11;
+  architecture behaviour of hello_world at 10( 172) + 0 on 12;
