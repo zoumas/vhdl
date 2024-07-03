@@ -1,7 +1,0 @@
-v 4
-file . "fulladder_tb.vhdl" "46b7430f2109456b5f554857896f7f396a8859a6" "20240622143454.305":
-  entity fa_tb at 2( 29) + 0 on 13;
-  architecture behav of fa_tb at 5( 57) + 0 on 14;
-file . "fulladder.vhdl" "db221c842a4bc900d3c278f8bc66e8c26676d6b5" "20240622142310.160":
-  entity fa at 1( 0) + 0 on 11;
-  architecture rtl of fa at 7( 192) + 0 on 12;
